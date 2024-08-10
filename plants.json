@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Jeruk Limau",
+        "scientificName": "Citrus amblycarpa",
+        "image": "img/jeruk-limau.jpeg",
+        "otherNames": "Limau kasturi, jeruk sambal",
+        "benefits": [
+            "Jeruk limau kaya akan vitamin C dan antioksidan. Bermanfaat untuk menjaga kesehatan kulit, meningkatkan daya tahan tubuh, dan sebagai detoks alami."
+        ],
+        "uses": [
+            "Jeruk limau sering digunakan dalam masakan sebagai penyedap seperti pada soto, sambal, atau minuman segar."
+
+        ]
+    }
+]

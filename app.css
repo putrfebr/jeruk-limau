@@ -82,7 +82,7 @@ img.small-img {
 /* Styling tambahan untuk logo dan kredit desain */
 
 .logo-img {
-    margin-top: 10px; /* Jarak vertikal antara gambar dan teks */
+    margin-top: 50px; /* Jarak vertikal antara gambar dan teks */
     max-width: 100px; /* Ukuran maksimal gambar logo */
     height: auto;
 }
